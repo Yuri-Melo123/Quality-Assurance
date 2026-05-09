@@ -16,7 +16,7 @@ npm start
 # A API estará disponível em: http://localhost:3030
 ```
 
-O arquivo server.js deste repositório tem como objetivo evitar o conflito de portas com o Grafana na porta http://localhost:3000 e incluirá as dependências da biblioteca prom-client para a visualização das métricas no Prometheus.
+O arquivo server.js deste repositório tem como objetivo evitar o conflito de portas com o Grafana na porta http://localhost:3000 e incluir as dependências da biblioteca prom-client para a visualização das métricas no Prometheus.
 
 ## Visualização de métricas
 
