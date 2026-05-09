@@ -1,10 +1,6 @@
 # Teste e monitoramento de carga para a Disciplina de Quality Assurance da UniFECAF
 
-Para usar este repositório será necessário baixar a API de Simulação para Testes com JMeter disponibilizado pelo Professor Wanderson Elias no repositório:
-
-```
-https://github.com/Wandersonelias/api-jmeter.git
-```
+Para usar este repositório será necessário baixar a API de Simulação para Testes com JMeter disponibilizado pelo Professor Wanderson Elias no repositório https://github.com/Wandersonelias/api-jmeter.git.
 
 Substitua o arquivo server.js da API de Simulação pelo arquivo presente na pasta Replace Server deste repositório antes de rodar.
 
