@@ -34,11 +34,9 @@ http://localhost:9090
 
 ### Prometheus
 
-Acesse o link abaixo para visualizar o Prometheus com as métricas configuradas
+Acesse o link abaixo para visualizar o Prometheus com as métricas configuradas:
 
-```
 http://localhost:9090/query?g0.expr=rate%28http_request_duration_seconds_sum%5B1m%5D%29&g0.show_tree=0&g0.tab=table&g0.range_input=1h&g0.res_type=auto&g0.res_density=medium&g0.display_mode=lines&g0.show_exemplars=0&g1.expr=rate%28http_requests_total%5B1m%5D%29&g1.show_tree=0&g1.tab=table&g1.range_input=1h&g1.res_type=auto&g1.res_density=medium&g1.display_mode=lines&g1.show_exemplars=0&g2.expr=http_requests_total&g2.show_tree=0&g2.tab=table&g2.range_input=1h&g2.res_type=auto&g2.res_density=medium&g2.display_mode=lines&g2.show_exemplars=0&g3.expr=rate%28http_requests_total%5B1m%5D%29&g3.show_tree=0&g3.tab=table&g3.range_input=1h&g3.res_type=auto&g3.res_density=medium&g3.display_mode=lines&g3.show_exemplars=0&g4.expr=sum+by%28route%29%28rate%28http_requests_total%5B1m%5D%29%29&g4.show_tree=0&g4.tab=table&g4.range_input=1h&g4.res_type=auto&g4.res_density=medium&g4.display_mode=lines&g4.show_exemplars=0
-```
 
 ### Grafana
 
