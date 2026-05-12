@@ -84,11 +84,7 @@ docker-compose down
 docker-compose up -d
 ```
 
-### Link para a explicação no Youtube
-
-https://youtu.be/9LIQQWa-Nuw
-
-### Licença
+## Licença
 
 Este projeto é de uso educacional – sinta-se livre para usá-lo como referência em seus estudos.
 
